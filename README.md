@@ -76,4 +76,5 @@ This is the code to find the average speed of all the cars collected:
  `colnames(avg_speed) <- c("Type.of.Car", "Average Speed")`
 
 ## Anaylsis
-Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. 
+Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. A brief synopsis of the essay is as follows:
+
