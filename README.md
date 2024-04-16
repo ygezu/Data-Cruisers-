@@ -18,6 +18,11 @@ This is the code to find the maximum value in the dataset collected
 
 `})`
 
+This returns the maximum value to allow the output to be displayed in the shiny window. 
+Next is the graph of the maximum speed which you can see was 45 miles per hour. 
+<div align = "center">
+<img src = "" width = "700">
+</div>
 ## Minimum
 This is the code to find the minimum value in the dataset, similar to the maximum.
   
@@ -31,7 +36,11 @@ This is the code to find the minimum value in the dataset, similar to the maximu
 
 `return(min_text)`
 
- This returns the minimum value to allow the output to be displayed in the shiny window.
+This returns the minimum value to allow the output to be displayed in the shiny window.
+Next is the graph of minimum speed which you can see was 20 miles per hour. 
+<div align = "center">
+<img src =""  width = "700">
+</div>
 
 ## Median
 This is the code to find the median of all the speeds in the dataset.
@@ -47,3 +56,10 @@ This is the code to find the median of all the speeds in the dataset.
 `return(median_text)`
 
  This returnt he median value to alllow the output to be displayed in the shiny window.
+ At the very end of the shiny window median, along with maximum and minimum, have been displayed for the user to see. 
+<div align = "center">
+<img src = "" width = "700">
+</div>
+
+## Anaylsis
+Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. 
