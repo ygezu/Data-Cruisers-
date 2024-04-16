@@ -23,6 +23,7 @@ Next is the graph of the maximum speed which you can see was 45 miles per hour.
 <div align = "center">
 <img src = "" width = "700">
 </div>
+
 ## Minimum
 This is the code to find the minimum value in the dataset, similar to the maximum.
   
