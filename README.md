@@ -59,7 +59,7 @@ This is the code to find the median of all the speeds in the dataset.
  This return the median value to alllow the output to be displayed in the shiny window.
  At the very end of the shiny window median, along with maximum and minimum, have been displayed for the user to see. 
 <div align = "center">
-<img src = "" width = "700">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/MaxMinMedianCars.png" width = "700">
 </div>
 
 ## Anaylsis
