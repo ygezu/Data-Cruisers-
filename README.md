@@ -22,7 +22,6 @@ This is the code to find the maximum value in the dataset collected
   This is the code to find the minimum value in the dataset, similar to the maximum.
   
  `output$min_value <- renderText({ `
-  
     `req(input$Y) `
     
     `min_val <- min(dataset[[input$Y]]) `
