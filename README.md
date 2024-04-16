@@ -8,13 +8,13 @@ This is the code to find the maximum value in the dataset collected
 
 `output$max_value <- renderText({ `
 
-    `req(input$Y) `
+        `req(input$Y) `
     
-     `max_val <- max(dataset[[input$Y]]) `
+         `max_val <- max(dataset[[input$Y]]) `
      
-    ` max_text <- paste("Maximum value in", input$Y, "is:", max_val)`
+        `max_text <- paste("Maximum value in", input$Y, "is:", max_val)`
     
-     `return(max_text)`
+         `return(max_text)`
  
   ## Minimum
   This is the code to find the minimum value in the dataset, similar to the maximum.
