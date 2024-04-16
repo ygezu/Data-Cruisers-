@@ -7,12 +7,14 @@ We collected data from a speed dection radar located on 30th St and 24th Avenue 
 This is the code to find the maximum value in the dataset collected
 
 `output$max_value <- renderText({ `
+
     `req(input$Y) `
+    
      `max_val <- max(dataset[[input$Y]]) `
+     
     ` max_text <- paste("Maximum value in", input$Y, "is:", max_val)`
+    
      `return(max_text)`
-   
-    This return the maximum value to allow the output to be displayed in the shiny window
  
   ## Minimum
   This is the code to find the minimum value in the dataset, similar to the maximum.
