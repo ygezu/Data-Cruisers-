@@ -21,7 +21,7 @@ This is the code to find the maximum value in the dataset collected
 This returns the maximum value to allow the output to be displayed in the shiny window. 
 Next is the graph of the maximum speed which you can see was 45 miles per hour. 
 <div align = "center">
-<img src = "" width = "700">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/Max.png" width = "700">
 </div>
 
 ## Minimum
@@ -40,7 +40,7 @@ This is the code to find the minimum value in the dataset, similar to the maximu
 This returns the minimum value to allow the output to be displayed in the shiny window.
 Next is the graph of minimum speed which you can see was 20 miles per hour. 
 <div align = "center">
-<img src =""  width = "700">
+<img src ="https://github.com/ygezu/Data-Cruisers-/blob/main/Min.png"  width = "700">
 </div>
 
 ## Median
