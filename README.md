@@ -67,6 +67,13 @@ In our data we found that the average speed was over 30 miles per hour for any t
 <div align = "center">
 <img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/AverageSpeed.png" width = "700">
 </div>
+This is the code to find the average speed of all the cars collected:
+
+ `output$plot_avg_speed <- renderPlot({`
+ 
+ `avg_speed <- aggregate(dataset()[["Speed..mph."]], by=list(dataset()[["Type.of.Car"]]), FUN=mean, na.rm=TRUE)`
+ 
+ `colnames(avg_speed) <- c("Type.of.Car", "Average Speed")`
 
 ## Anaylsis
 Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. 
