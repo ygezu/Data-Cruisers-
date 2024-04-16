@@ -67,5 +67,6 @@ In our data we found that the average speed was over 30 miles per hour for any t
 <div align = "center">
 <img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/AverageSpeed.png" width = "700">
 </div>
+
 ## Anaylsis
 Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. 
