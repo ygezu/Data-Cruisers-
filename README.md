@@ -62,5 +62,10 @@ This is the code to find the median of all the speeds in the dataset.
 <img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/MaxMinMedianCars.png" width = "700">
 </div>
 
+## Average speed
+In our data we found that the average speed was over 30 miles per hour for any type of vehcile, as shown in grapg below.
+<div align = "center">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/AverageSpeed.png" width = "700">
+</div>
 ## Anaylsis
 Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. 
