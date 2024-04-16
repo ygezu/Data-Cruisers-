@@ -21,14 +21,15 @@ This is the code to find the maximum value in the dataset collected
   ## Minimum
   This is the code to find the minimum value in the dataset, similar to the maximum.
   
- `output$min_value <- renderText({ `
-    `req(input$Y) `
-    
-    `min_val <- min(dataset[[input$Y]]) `
-     
-    ` min_text <- paste("Minimum value in", input$Y, "is:", min_val) `
+ `output$min_value <- renderText({`
  
-    ` return(min_text)`
+    req(input$Y) 
+    
+    min_val <- min(dataset[[input$Y]]) 
+     
+    min_text <- paste("Minimum value in", input$Y, "is:", min_val) `
+ 
+    return(min_text)`
 
     This returns the minimum value to allow the output to be displayed in the shiny window.
 
