@@ -77,6 +77,9 @@ This is the code to find the average speed of all the cars collected:
  `colnames(avg_speed) <- c("Type.of.Car", "Average Speed")`
 
 ## Anaylsis
-Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. A brief synopsis of the essay is as follows:
+Included in this project was a short essay on the findings of scholarly research articles that possibly correlate with our data's story. 
+A brief synopsis of the essay is as follows:
 
-Traffic safety technology has undergone continuous advancement, now integrating solar-powered speed radars. These radars track the speed of a car passing by and display the driver their speed in hopes of driver adjusting their speed to the speed limit posted on the radar, to reduce accidents and encourage safe driving. Our data supports the research found in scholaryly articles. The speed radars lose effectiveness overtime and our data shows that 73% of the cars recorded had been going over the speed limit of 30 miles per hour. 
+
+
+Traffic safety technology has undergone continuous advancement, now integrating solar-powered speed radar displays. Drawing upon research conducted at Southern Illinois University and Morgan State University, the study investigated the efficiency of these speed radar displays at various times of the day and their impact on drivers' speeding behavior. According to the findings, while solar speed radars show promise in encouraging compliance with speed limits, dynamic speed display signs may lose effectiveness over time. The integration of cameras with speed detectors could enhance their impact on promoting compliance and improving road safety. These findings correlate with our collected data, showing higher speeding rates during the afternoon compared to the morning. 
