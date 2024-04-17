@@ -2,7 +2,8 @@
 ## Contributors
 Summer Chalmers, Yanet Gezu, and Patrick Mayer
 ## Introduction
-We collected data from a speed dection radar located on 30th St and 24th Avenue in Rock Island IL. The data we collected was type of car, speed of the car, time of the car passing by, and the weather all between the hours of 9 am to 6pm. With this data we will find the maximum speed, minimum speed, and median of all the speeds and will include a brief anaylsis on scholarly articles findings agains't the story our data tells us. 
+We collected data from a speed detection radar located on 30th St and 24th Avenue in Rock Island IL. The data we collected was the type of car, speed of the car, time of the car passing by, and the weather all between the hours of 9 am to 6 pm. With this data, we will find the maximum speed, minimum speed, and median of all the speeds and will include a brief analysis of our scholarly articles' findings.
+
 ## Maximum
 This is the code to find the maximum value in the dataset collected
 
@@ -56,14 +57,14 @@ This is the code to find the median of all the speeds in the dataset.
 
 `return(median_text)`
 
- This return the median value to alllow the output to be displayed in the shiny window.
- At the very end of the shiny window median, along with maximum and minimum, have been displayed for the user to see. 
+ This returns the median value that allows the output to be displayed in the shiny window.
+ At the very end of the shiny window median, along with the maximum and minimum, has been displayed for the user to see. 
 <div align = "center">
 <img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/MaxMinMedianCars.png" width = "700">
 </div>
 
 ## Average speed
-In our data we found that the average speed was over 30 miles per hour for any type of vehcile, as shown in graph below.
+In our data, we found that the average speed was over 30 miles per hour for any type of vehcile, as shown in graph below.
 <div align = "center">
 <img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/AverageSpeed.png" width = "700">
 </div>
