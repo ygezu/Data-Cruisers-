@@ -77,4 +77,5 @@ This is the code to find the average speed of all the cars collected:
 
 ## Anaylsis
 Included in this project was a short essay on the findings of scholarly research to either back up our findings or to argue agains't our data's story. A brief synopsis of the essay is as follows:
+
 The advancment in traffic safetly technology include the solar speed radars. These radars track the spee of a car passing by and showing the driver their speed in hopes of driver adjusting their speed to the speed limit posted on the radar, to reduce accidents and encourage safe driving. Our data supports the research found in scholaryly articles. The speed radars lose effectiveness overtime and our data shows that 73% of the cars recorded had been going over the speed limit of 30 miles per hour. 
