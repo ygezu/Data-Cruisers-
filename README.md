@@ -4,6 +4,14 @@ Summer Chalmers, Yanet Gezu, and Patrick Mayer
 ## Introduction
 We collected data from a speed detection radar located on 30th St and 24th Avenue in Rock Island IL. The data we collected was the type of car, speed of the car, time of the car passing by, and the weather all between the hours of 9 am to 6 pm. With this data, we will find the maximum speed, minimum speed, and median of all the speeds and will include a brief analysis of our scholarly articles' findings.
 
+## Dictionary
+1. Car Number (each car had a label to it)
+2. Time of day
+3. Weather (degree)
+4. Type of car( Yruck, SUV, Van, Ambulence, and Sedan)
+5. Speed
+6. Name(person who collected the data)
+
 ## Maximum
 This is the code to find the maximum value in the dataset collected
 
