@@ -30,7 +30,8 @@ This is the code to find the maximum value in the dataset collected
 This returns the maximum value to allow the output to be displayed in the shiny window. 
 Next is the graph of the maximum speed which you can see was 45 miles per hour. 
 <div align = "center">
-<img src ="https://github.com/ygezu/Data-Cruisers-/blob/main/Images/Max_Value.png" width = "700">
+
+https://github.com/ygezu/Data-Cruisers-/blob/main/Images/Max_Value.png
 </div>
 
 ## Minimum
