@@ -22,7 +22,7 @@ This is the code to find the maximum value in the dataset collected
 This returns the maximum value to allow the output to be displayed in the shiny window. 
 Next is the graph of the maximum speed which you can see was 45 miles per hour. 
 <div align = "center">
-<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/Max.png" width = "700">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/Images/Max.png" width = "700">
 </div>
 
 ## Minimum
@@ -41,7 +41,7 @@ This is the code to find the minimum value in the dataset, similar to the maximu
 This returns the minimum value to allow the output to be displayed in the shiny window.
 Next is the graph of minimum speed which you can see was 20 miles per hour. 
 <div align = "center">
-<img src ="https://github.com/ygezu/Data-Cruisers-/blob/main/Min.png"  width = "700">
+<img src ="https://github.com/ygezu/Data-Cruisers-/blob/main/Images/Min.png"  width = "700">
 </div>
 
 ## Median
@@ -57,16 +57,15 @@ This is the code to find the median of all the speeds in the dataset.
 
 `return(median_text)`
 
- This returns the median value that allows the output to be displayed in the shiny window.
- At the very end of the shiny window median, along with the maximum and minimum, has been displayed for the user to see. 
+ This returns the median value that allows the output to be displayed in the shiny window. 
 <div align = "center">
-<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/MaxMinMedianCars.png" width = "700">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/Images/MaxMinMedianCars.png" width = "700">
 </div>
 
 ## Average speed
 In our data, we found that the average speed was over 30 miles per hour for any type of vehicle, as shown in the graph below.
 <div align = "center">
-<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/AverageSpeed.png" width = "700">
+<img src = "https://github.com/ygezu/Data-Cruisers-/blob/main/Images/AverageSpeed.png" width = "700">
 </div>
 This is the code to find the average speed of all the cars collected:
 
